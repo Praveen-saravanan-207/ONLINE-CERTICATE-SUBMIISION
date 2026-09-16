@@ -1,5 +1,5 @@
+# name praveen s
+# reg 212223060207
 
-<img width="1321" height="997" alt="image" src="https://github.com/user-attachments/assets/acb6bf79-aac9-42e4-8f97-5cc0b411eeb1" />
-<img width="1120" height="741" alt="image" src="https://github.com/user-attachments/assets/9575127b-badb-48bf-b195-eb23a66cef52" />
-
-
+<img width="600" height="600" alt="ccna-introduction-to-networks" src="https://github.com/user-attachments/assets/796bc805-578e-4efc-bdc8-6257be9ec839" />
+<img width="726" height="487" alt="Screenshot 2026-09-16 145214" src="https://github.com/user-attachments/assets/7ce16998-3ec1-40a3-be48-2b575e06de06" />
